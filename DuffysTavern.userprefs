@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{292C7A81-9387-4AA9-BA0F-0D8F908341CF}|">
   <MonoDevelop.Ide.ItemProperties.DuffysTavern PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DuffysTavern/Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DuffysTavern/DuffysTavern.csproj">
     <Files>
       <File FileName="DuffysTavern/Controllers/HomeController.cs" Line="14" Column="13" />
-      <File FileName="DuffysTavern/Views/Home/Index.cshtml" Line="2" Column="1" />
-      <File FileName="DuffysTavern/Views/Shared/_Layout.cshtml" Line="6" Column="3" />
+      <File FileName="DuffysTavern/Views/Home/Index.cshtml" Line="3" Column="37" />
+      <File FileName="DuffysTavern/Views/Shared/_Layout.cshtml" Line="13" Column="21" />
+      <File FileName="DuffysTavern/DuffysTavern.csproj" Line="90" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
